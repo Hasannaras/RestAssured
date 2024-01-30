@@ -7,7 +7,6 @@ import static io.restassured.RestAssured.given;
 public class GetAllBookingsTests {
     // Çağrı oluşturma
     // Response kontrolleri
-    // Curl -i https://restful-booker.herokuapp.com/booking
 
     @Test
     public void getAllBookingTest() {

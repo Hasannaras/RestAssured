@@ -13,8 +13,6 @@ public class GetAllBookingsIdTest extends BaseTest {
 
         //Çağrıyı oluşturulur
         //Response kontrelleri
-        //curl -i https://restful-booker.herokuapp.com/booking/1
-
 
         Response response = given()
                 .when()
